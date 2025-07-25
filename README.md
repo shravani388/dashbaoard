@@ -1,2 +1,2 @@
-# dashbaoard
+# Dashbaoard
 Dashboard Creation using R
